@@ -1,0 +1,120 @@
+Features: Number Of Cores, Roll Length_normalized, Conductor
+Values: single core, 90.0 metre, copper
+Count: 13
+----------------------------------------
+Features: Number Of Cores, Voltage_normalized, Conductor
+Values: single core, 1100.0 volt, copper
+Count: 13
+----------------------------------------
+Features: Roll Length_normalized, Voltage_normalized, Conductor
+Values: 90.0 metre, 1100.0 volt, copper
+Count: 13
+----------------------------------------
+Features: Suitable for, Number Of Cores, Roll Length_normalized
+Values: homes, single core, 90.0 metre
+Count: 12
+----------------------------------------
+Features: Number Of Cores, Roll Length_normalized, Voltage_normalized
+Values: single core, 90.0 metre, 1100.0 volt
+Count: 11
+----------------------------------------
+Features: Suitable for, Roll Length_normalized, Voltage_normalized
+Values: homes, 90.0 metre, 1100.0 volt
+Count: 9
+----------------------------------------
+Features: Suitable for, Roll Length_normalized, Conductor
+Values: homes, 90.0 metre, copper
+Count: 9
+----------------------------------------
+Features: Suitable for, Voltage_normalized, Conductor
+Values: homes, 1100.0 volt, copper
+Count: 8
+----------------------------------------
+Features: Suitable for, Number Of Cores, Voltage_normalized
+Values: homes, single core, 1100.0 volt
+Count: 7
+----------------------------------------
+Features: Suitable for, Number Of Cores, Conductor
+Values: homes, single core, copper
+Count: 7
+----------------------------------------
+Features: Suitable for, Roll Length_normalized, Voltage_normalized, Conductor
+Values: homes, 90.0 metre, 1100.0 volt, copper
+Count: 5
+----------------------------------------
+Features: Suitable for, Number Of Cores, Roll Length_normalized, Voltage_normalized
+Values: homes, single core, 90.0 metre, 1100.0 volt
+Count: 4
+----------------------------------------
+Features: Suitable for, Number Of Cores, Roll Length_normalized, Conductor
+Values: homes, single core, 90.0 metre, copper
+Count: 4
+----------------------------------------
+Features: Number Of Cores, Roll Length_normalized, Voltage_normalized, Conductor
+Values: single core, 90.0 metre, 1100.0 volt, copper
+Count: 4
+----------------------------------------
+Features: Suitable for, Number Of Cores, Voltage_normalized, Conductor
+Values: homes, single core, 1100.0 volt, copper
+Count: 3
+----------------------------------------
+Features: Color, Suitable for, Roll Length_normalized, Conductor
+Values: yellow, homes, 90.0 metre, copper
+Count: 2
+----------------------------------------
+Features: Color, Number Of Cores, Roll Length_normalized, Conductor
+Values: yellow, single core, 90.0 metre, copper
+Count: 2
+----------------------------------------
+Features: Color, Number Of Cores, Voltage_normalized, Conductor
+Values: green, single core, 1100.0 volt, copper
+Count: 2
+----------------------------------------
+Features: Insulation Material, Suitable for, Roll Length_normalized, Conductor
+Values: pvc, homes, 90.0 metre, copper
+Count: 2
+----------------------------------------
+Features: Insulation Material, Suitable for, Voltage_normalized, Conductor
+Values: pvc, homes, 1100.0 volt, copper
+Count: 2
+----------------------------------------
+Features: Suitable for, Number Of Cores, Roll Length_normalized, Voltage_normalized, Conductor
+Values: homes, single core, 90.0 metre, 1100.0 volt, copper
+Count: 3
+----------------------------------------
+Features: Current Rating_normalized, Wire Size_normalized, Number Of Cores, Roll Length_normalized, Conductor
+Values: 4.0 ampere, 2.5 square millimetre, single core, 90.0 metre, copper
+Count: 1
+----------------------------------------
+Features: Current Rating_normalized, Color, Insulation Material, Number Of Cores, Voltage_normalized
+Values: 7.0 ampere, yellow, fr, 2 core, 220.0 volt
+Count: 1
+----------------------------------------
+Features: Current Rating_normalized, Color, Insulation Material, Number Of Cores, Voltage_normalized
+Values: 7.0 ampere, green, fr, single core, 1100.0 volt
+Count: 1
+----------------------------------------
+Features: Current Rating_normalized, Color, Suitable for, Number Of Cores, Conductor
+Values: 5.0 ampere, red, construction, single core, copper
+Count: 1
+----------------------------------------
+Features: Current Rating_normalized, Insulation Material, Number Of Cores, Voltage_normalized, Conductor
+Values: 4.0 ampere, frlf, single core, 1100.0 volt, copper
+Count: 1
+----------------------------------------
+Features: Current Rating_normalized, Insulation Material, Roll Length_normalized, Voltage_normalized, Conductor
+Values: 5.0 ampere, pvc, 90.0 metre, 220.0 volt, copper
+Count: 1
+----------------------------------------
+Features: Wire Size_normalized, Color, Insulation Material, Suitable for, Number Of Cores
+Values: 1.0 square millimetre, black, pvc, buildings, single core
+Count: 1
+----------------------------------------
+Features: Wire Size_normalized, Insulation Material, Suitable for, Number Of Cores, Voltage_normalized
+Values: 2.5 square millimetre, fr, homes, single core, 1100.0 volt
+Count: 1
+----------------------------------------
+Features: Color, Insulation Material, Suitable for, Number Of Cores, Voltage_normalized
+Values: red, pvc, homes, single core, 1100.0 volt
+Count: 1
+----------------------------------------

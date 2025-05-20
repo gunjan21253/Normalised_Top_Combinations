@@ -1,0 +1,88 @@
+Features: Wire Size_normalized, Insulation_material, Number Of Core
+Values: 1.5 square millimetre, pvc, single core
+Count: 27
+----------------------------------------
+Features: Wire Size_normalized, Insulation_material, Number Of Core
+Values: 2.5 square millimetre, pvc, single core
+Count: 21
+----------------------------------------
+Features: Wire Size_normalized, Insulation_material, Number Of Core
+Values: 0.5 square millimetre, pvc, single core
+Count: 13
+----------------------------------------
+Features: Wire Size_normalized, Insulation_material, Number Of Core
+Values: 4.0 square millimetre, pvc, single core
+Count: 12
+----------------------------------------
+Features: Wire Size_normalized, Insulation_material, Number Of Core
+Values: 2.5 square millimetre, fr, single core
+Count: 9
+----------------------------------------
+Features: Color, Wire Size_normalized, Insulation_material
+Values: red, 2.5 square millimetre, pvc
+Count: 8
+----------------------------------------
+Features: Wire Size_normalized, Insulation_material, Number Of Core
+Values: 1.5 square millimetre, fr, single core
+Count: 8
+----------------------------------------
+Features: Wire Size_normalized, Insulation_material, Number Of Core
+Values: 1.5 square millimetre, frlf, single core
+Count: 8
+----------------------------------------
+Features: Wire Size_normalized, Number Of Core, Roll Size_normalized
+Values: 1.5 square millimetre, single core, 300.0 metre
+Count: 8
+----------------------------------------
+Features: Insulation_material, Number Of Core, Roll Size_normalized
+Values: pvc, single core, 300.0 metre
+Count: 8
+----------------------------------------
+Features: Wire Size_normalized, Insulation_material, Number Of Core, Roll Size_normalized
+Values: 1.5 square millimetre, pvc, single core, 300.0 metre
+Count: 4
+----------------------------------------
+Features: Color, Wire Size_normalized, Insulation_material, Roll Size_normalized
+Values: red, 2.5 square millimetre, pvc, 300.0 metre
+Count: 3
+----------------------------------------
+Features: Wire Size_normalized, Conductor Type, Insulation_material, Number Of Core
+Values: 1.5 square millimetre, copper, pvc, 2 core
+Count: 2
+----------------------------------------
+Features: Wire Size_normalized, Insulation_material, Number Of Core, Roll Size_normalized
+Values: 2.5 square millimetre, fr, single core, 300.0 metre
+Count: 2
+----------------------------------------
+Features: Color, Wire Size_normalized, Insulation_material, Number Of Core
+Values: black, 1.5 square millimetre, pvc, single core
+Count: 1
+----------------------------------------
+Features: Color, Wire Size_normalized, Insulation_material, Packaging Type
+Values: red, 2.5 square millimetre, pvc, packet
+Count: 1
+----------------------------------------
+Features: Color, Wire Size_normalized, Insulation_material, Packaging Type
+Values: red, 4.0 square millimetre, pvc, box
+Count: 1
+----------------------------------------
+Features: Color, Wire Size_normalized, Insulation_material, Packaging Type
+Values: green, 1.5 square millimetre, pvc, box
+Count: 1
+----------------------------------------
+Features: Color, Wire Size_normalized, Insulation_material, Roll Size_normalized
+Values: red, 2.5 square millimetre, fr, 300.0 metre
+Count: 1
+----------------------------------------
+Features: Color, Wire Size_normalized, Insulation_material, Roll Size_normalized
+Values: black, 1.5 square millimetre, pvc, 300.0 metre
+Count: 1
+----------------------------------------
+Features: Color, Wire Size_normalized, Insulation_material, Number Of Core, Roll Size_normalized
+Values: black, 1.5 square millimetre, pvc, single core, 300.0 metre
+Count: 1
+----------------------------------------
+Features: Color, Wire Size_normalized, Insulation_material, Packaging Type, Roll Size_normalized
+Values: red, 2.5 square millimetre, pvc, packet, 300.0 metre
+Count: 1
+----------------------------------------
